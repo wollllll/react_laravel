@@ -1,0 +1,19 @@
+.header {
+    background: #CCFFFF;
+    height: 60px;
+}
+
+.main {
+    background: #FFD5EC;
+    height: 100vh;
+}
+
+.aside {
+    background: #FFFFCC;
+    height: 100vh;
+}
+
+.footer {
+    background: #CCFFCC;
+    height: 100px;
+}
